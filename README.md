@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prashantchandra07
-- I'm a developer trying to solve...
+- I'm a developer trying to develop...
 
 <!---
 prashantchandra07/prashantchandra07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
